@@ -53,6 +53,12 @@ The assignment emphasized modular design, separation of logic from UI, efficient
 
   <div align="left">
     <img src="./examples/start.jpg" width="300px" />
+    <div align="left">
+    <img src="./examples/mid.jpg" width="300px" />
+      <div align="left">
+    <img src="./examples/mid_dark.jpg" width="300px" />
+        <div align="left">
+    <img src="./examples/end.jpg" width="300px" />
   </div>
 </div>
 
