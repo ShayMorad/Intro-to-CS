@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center" style="border-bottom: none"><b>Exercise 4</b> - Batteleships</h1>
+  <h1 align="center" style="border-bottom: none"><b>Exercise 4</b> - Battleships</h1>
 
   <p align="center">
 <b>Battleships</b> is the fourth assignment I completed in the <b>Introduction to Computer Science</b> course at HUJI.
