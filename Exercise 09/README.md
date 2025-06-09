@@ -33,7 +33,7 @@ The exercise emphasizes proper class structure, encapsulation, and clean interfa
   <h2 align="left" style="border-bottom: 1px solid gray">Media</h2>
 
   <div align="left">
-    <img src="example.jpg" alt="1" width="300px" />
+    <img src="example.jpg" alt="1" />
   </div>
 </div>
 
