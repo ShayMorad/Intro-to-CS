@@ -33,9 +33,9 @@ The focus is on writing type-safe Python code, adhering to memory and time const
   <h2 align="left" style="border-bottom: 1px solid gray">Media</h2>
 
   <div align="left">
-    <img src="./examples/start.png" alt="1" width="300px" />
+    <img src="./examples/start.jpg" alt="1" width="300px" />
     <br>
-    <img src="./examples/end.png" alt="2" width="300px" />  
+    <img src="./examples/end.jpg" alt="2" width="300px" />  
   </div>
 </div>
 
