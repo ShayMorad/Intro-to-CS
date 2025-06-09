@@ -27,7 +27,22 @@ This exercise focuses on building an image editing program from scratch using <b
 </div>
 
 <br>
+<br>
 
+<div align="left">
+  <h2 align="left" style="border-bottom: 1px solid gray">Media</h2>
+
+  <div align="left">
+    <p>Before executing <code>py .\image_editor.py .\examples\nature.jpeg and choosing to quantize (5 levels) and save the image</code></p>
+    <img src="./examples/nature.jpeg" alt="1" width="500px" />  
+    <br>
+    <br>
+    <p>After executing <code>py .\image_editor.py .\examples\nature.jpeg and choosing to quantize (5 levels) and save the image</code></p>
+    <img src="./examples/nature_quantized.png" alt="2" width="500px" />
+  </div>
+</div>
+
+<br>
 <div align="left">
   <h2 align="left" style="border-bottom: 1px solid gray">Contributions</h2>
 
