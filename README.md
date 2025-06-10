@@ -34,7 +34,7 @@ Throughout the **14-week** course, we explored key programming principles using 
 
 ## 🤝 Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Contributions are encouraged! For any significant changes, it's best to open an issue first and start a discussion.
 
 
 
