@@ -11,7 +11,7 @@ Throughout the **14-week** course, we explored key programming principles using 
 🔗 [View Course Syllabus (Shnaton)](https://shnaton.huji.ac.il/index.php/NewSyl/67101/2/2025/)
 
 
----
+
 
 ## 📂 Exercises Overview
 
@@ -29,14 +29,14 @@ Throughout the **14-week** course, we explored key programming principles using 
 | [Exercise 10](./Exercise%2010) | Snake | OOP & GUI |
 | [Exercise 11](./Exercise%2011) | Boggle | GUI & word search |
 
----
+
 
 
 ## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
----
+
 
 ## 📄 License
 
